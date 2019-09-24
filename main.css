@@ -18,6 +18,7 @@ header{
 			height:150px;
 			border:thick solid;	
 			padding-bottom: 30px;
+			font-family: 'Turret Road', cursive;
 		}
 nav{
 			background-color:darkred;
@@ -34,6 +35,7 @@ nav{
 			float:left;	
 			margin-right:15px; 
 			border:thick solid;
+			font-family: 'Noto Sans JP', sans-serif;
 }
 #news{
 			width:330px;
@@ -42,6 +44,7 @@ nav{
 	 		float:left;
 			margin-right:15px; 
 			border:thick solid;
+			font-family: 'Noto Sans JP', sans-serif;
 
 		}
 #entertainment{
@@ -50,6 +53,7 @@ nav{
 			height:400px;
 			float:left;
 			border:thick solid;
+			font-family: 'Noto Sans JP', sans-serif;
 		}
 
 #art1{
